@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/tiltkey",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tilt numeric key values, ranges, and human-readable units.",
+  "bin": {
+    "tiltkey": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/tiltkey.git"
+  },
+  "homepage": "https://theworker02.github.io/tiltkey/",
+  "keywords": [
+    "tilt",
+    "key",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
